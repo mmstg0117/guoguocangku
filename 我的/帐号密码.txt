@@ -1,0 +1,41 @@
+﻿1000902730
+
+jyin.yu@haihangyun.com
+
+弹出的窗口中输入您的用户名和密码，用户名为：hnanet\账号，点击“确定”
+
+jyin.yu
+A111111a
+
+
+
+15501000817
+abc123
+
+13601342035
+
+test1234
+
+交易密码：111111
+
+大集金服：
+现有项目测试后台地址: test.ccoopfs.com/popedomsys/index.html 
+帐号: admin 密码:111111
+
+现有项目测试前台地址: test.ccoopfs.com  
+
+Gitlab
+http://120.77.182.185/makeit/ccoopfs-doc 
+帐号/密码: guest/ guest@123
+
+ccoopfs
+测试数据库：makeit_dev_ccoopfs
+帐号/密码：makeit_dev_ccoopfs/56@#AD#$123jdkruiwe#ccadjj
+:
+数据库地址: rm-bp1c7b40jg7fd11jso.mysql.rds.aliyuncs.com
+
+ccoopfs
+后台访问地址：ccoopfs-admin.ahjarzeng.com
+前台访问地址：ccoopfs-web.ahjarzeng.com
+
+
